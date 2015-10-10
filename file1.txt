@@ -1,2 +1,3 @@
 This is first line.
 this git2 edit.
+g2 edit file1 master
